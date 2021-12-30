@@ -1,4 +1,4 @@
-Nft_art_creator
+NFT ART CREATOR
 
 The idea is to create NFT art to sell
 
